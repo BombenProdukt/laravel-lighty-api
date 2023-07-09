@@ -1,0 +1,1 @@
+This repository contains the source code for a REST API that enables users to interact with [Laravel Lighty](https://github.com/faustbrian/laravel-lighty). It has been developed using [Laravel](https://laravel.com/) and employs [Laravel Sanctum](https://laravel.com/docs/10.x/sanctum) for authentication.
